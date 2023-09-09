@@ -1,0 +1,6 @@
+TYPES OF FUNCTIONS:
+
+i) User defined Functions -- Changeable functions, can be modified as per need.
+
+
+ii) Library Functions -- pow(),sqrt(),strcmp(),strcpy(),etc..
